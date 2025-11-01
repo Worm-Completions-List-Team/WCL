@@ -6,6 +6,8 @@
 
 ### Website FAQ
 
+wormlist.pages.dev
+
 template by The Shitty List
 
 ### Usage FAQ
