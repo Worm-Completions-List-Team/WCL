@@ -100,6 +100,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        The completion has to be completed with the latest Worm mod version by AntiprimeGD on Geode.
+                    </p>
+                    <p>
                         The recording must show the worm button in the main menu to verify the use of the mod.
                     </p>
                     <p>
