@@ -106,6 +106,9 @@ export default {
                         The recording must show the worm button in the main menu to verify the use of the mod.
                     </p>
                     <p>
+                        All coins MUST be collected for a record to be qualified.
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass and CBF are allowed, up to 360fps)
                     </p>
                     <p>
