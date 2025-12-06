@@ -103,7 +103,7 @@ export default {
                         The completion has to be completed with the latest Worm mod version by AntiprimeGD on Geode.
                     </p>
                     <p>
-                        The recording must show the worm button in the main menu to verify the use of the mod.
+                        FOR VERIFICATIONS: The recording must show the worm button in the main menu to verify the use of the mod.
                     </p>
                     <p>
                         All coins MUST be collected for a record to be qualified.
