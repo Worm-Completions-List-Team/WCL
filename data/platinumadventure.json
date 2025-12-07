@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "123456",
     "records": [
+        {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7580783661864193302",
+            "percent": 100,
+            "hz": "120"
+        }
     ]
 }
