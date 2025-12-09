@@ -1,6 +1,6 @@
 {
     "id": 3543219,
-    "name": "Speed Race",
+    "name": "Speed Racer",
     "author": "ZenthicAlpha",
     "creators": [],
     "verifier": "JordanPD",
@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ryanbrohi",
+            "link": "https://youtu.be/xMigGWLQW7o?feature=shared",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
