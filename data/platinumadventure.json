@@ -13,6 +13,19 @@
             "link": "https://www.tiktok.com/@jordanpolydash/video/7580783661864193302",
             "percent": 100,
             "hz": "120"
+        },
+        {
+            "user": "graylovesmusic",
+            "link": "https://youtu.be/hyy-R_pmq8s?si=Kc-AZ-0PgVebqgBE",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Bebr1ch",
+            "link": "https://www.youtube.com/watch?v=fOXSxE18hJE",
+            "hz": 480,
+            "percent": 100
+
         }
     ]
 }

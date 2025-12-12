@@ -8,6 +8,11 @@
     "percentToQualify": 51,
     "password": "Free to Copy",
     "records": [
-
+        {
+            "user": "graylovesmusic",
+            "link": "https://youtu.be/9fmPV_6BtWk?si=CJg8tI97wI2okI0t",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
