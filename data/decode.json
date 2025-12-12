@@ -8,6 +8,11 @@
     "percentToQualify": 48,
     "password": "Not Copyable",
     "records": [
-    
+        {
+            "user": "ArsenMarkaryan",
+            "link": "https://www.youtube.com/watch?v=qsJ0vLSnEjc",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }

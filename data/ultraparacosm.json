@@ -8,6 +8,11 @@
     "percentToQualify": 57,
     "password": "Free to Copy",
     "records": [
-
+        {
+            "user": "ArsenMarkaryan",
+            "link": "https://youtu.be/6BRNcWKuEVA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
