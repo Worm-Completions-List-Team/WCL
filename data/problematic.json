@@ -8,6 +8,11 @@
     "percentToQualify": 49,
     "password": "Who knows? (2)",
     "records": [
-
+        {
+            "user": "ArsenMarkaryan",
+            "link": "https://youtu.be/g1ajDe3cJ2I",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }

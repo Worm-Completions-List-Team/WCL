@@ -3,10 +3,16 @@
     "name": "Nine Circles",
     "author": "Zobros",
     "creators": [],
-    "verifier": "Sxoul",
-    "verification": "https://www.youtube.com/watch?v=ol1mkfTXR4U",
+    "verifier": "Jimlim_",
+    "verification": "https://www.youtube.com/watch?v=5wQGUYvB22k",
     "percentToQualify": 56,
     "password": "121214",
     "records": [
+        {
+            "user": "Sxoul",
+            "link": "https://www.youtube.com/watch?v=ol1mkfTXR4U",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }

@@ -13,6 +13,12 @@
             "link": "https://youtu.be/6BRNcWKuEVA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "shadowkattz",
+            "link": "https://www.youtube.com/watch?v=PeCAi8ueDPI",
+            "hz": 144,
+            "percent": 100
         }
     ]
 }

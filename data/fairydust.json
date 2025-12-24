@@ -8,6 +8,11 @@
     "percentToQualify": 47,
     "password": "123456",
     "records": [
-
+        {
+            "user": "Sxoul",
+            "link": "https://www.youtube.com/watch?v=WoYErWP6sF8",
+            "hz": 360,
+            "percent": 100
+        }
     ]
 }
