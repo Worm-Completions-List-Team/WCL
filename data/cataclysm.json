@@ -8,6 +8,11 @@
     "percentToQualify": 51,
     "password": "666777",
     "records": [
-
+        {
+            "user": "Krystalline",
+            "link": "https://youtu.be/4frGwVxNRDU?si=jKYb88UtOE_24nSE",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }

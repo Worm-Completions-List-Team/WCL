@@ -8,6 +8,17 @@
     "percentToQualify": 56,
     "password": "Free to Copy",
     "records": [
-
+        {
+            "user": "Sxoul",
+            "link": "https://www.youtube.com/watch?v=kDMuqYn8lnw",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "Krystalline",
+            "link": "https://www.youtube.com/watch?v=AknvgsdI1PY",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
