@@ -8,6 +8,11 @@
     "percentToQualify": 48,
     "password": "Free to Copy",
     "records": [
-
+        {
+            "user": "Fluxx",
+            "hz": 120,
+            "percent": 88,
+            "link": "https://youtu.be/r0Ex_8adepQ"
+        }
     ]
 }
