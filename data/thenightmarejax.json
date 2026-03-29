@@ -9,12 +9,6 @@
     "password": "7813",
     "records": [
         {
-            "user": "ryanbrohi",
-            "link": "https://youtu.be/TO_TAzqEbB0?feature=shared",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "JordanPD",
             "link": "https://www.tiktok.com/@jordanpolydash/video/7580779554977959190",
             "percent": 100,
@@ -58,7 +52,7 @@
             "hz": 120,
             "percent": 100
         }
-        
+
 
     ]
 }
