@@ -8,6 +8,12 @@
     "percentToQualify": 57,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "happiguy47",
+            "link": "https://www.youtube.com/watch?v=UOomAle9ty4",
+            "percent": 57,
+            "hz": 360
+        }
 
     ]
 }
