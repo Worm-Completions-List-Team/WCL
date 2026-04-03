@@ -9,6 +9,12 @@
     "password": "Free to Copy",
     "records": [
         {
+            "user": "ThePaperGuy",
+            "link": "https://www.youtube.com/watch?v=M_hLuPGJdjU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "happiguy47",
             "link": "https://www.youtube.com/watch?v=UOomAle9ty4",
             "percent": 57,
