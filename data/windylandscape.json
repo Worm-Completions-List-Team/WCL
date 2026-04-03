@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=avZ3oR7AMl4",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "ThePaperGuy",
+            "link": "https://www.youtube.com/watch?v=xfLtKMvbhLM",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
