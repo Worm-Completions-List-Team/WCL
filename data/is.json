@@ -8,6 +8,11 @@
     "percentToQualify": 56,
     "password": "Free to Copy",
     "records": [
-
+       {
+            "user": "maxiorthefurry",
+            "link": "youtube.com/watch?v=YRtf95fwscw&feature=youtu.be",
+            "hz": 144,
+            "percent": 100
+        }
     ]
 }
