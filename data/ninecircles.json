@@ -19,6 +19,18 @@
             "link": "https://youtu.be/ZsFesCG18L4",
             "hz": 240,
             "percent": 100
+        },
+        {
+            "user": "Remklix",
+            "link": "https://www.youtube.com/watch?v=L8OwOJjJDQM",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "ThePaperGuy",
+            "link": "https://www.youtube.com/watch?v=bhFTHErkI7A",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }

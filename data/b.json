@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "kulmanhaha",
     "verification": "https://youtu.be/Fr7VecfJR_o?si=O9VJIsFPb4BlzYIM",
-    "percentToQualify": 48,
+    "percentToQualify": 60,
     "password": "Free to Copy",
     "records": [
         {
@@ -18,6 +18,18 @@
             "user": "universodefer",
             "link": "https://youtu.be/Xav1iIPJdmQ?si=oqpKLFG4lG0THate",
             "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Remklix",
+            "link": "https://www.youtube.com/watch?v=7C5UHXiUxE8",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "blubam033",
+            "link": "https://www.youtube.com/watch?v=23SXXqvSu_k",
+            "hz": 240,
             "percent": 100
         }
     ]

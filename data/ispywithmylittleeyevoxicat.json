@@ -4,7 +4,7 @@
     "author": "Voxicat",
     "creators": ["Voxicat"],
     "verifier": "JordanPD",
-    "verification": "https://youtu.be/-OMYWAfnzQo?si=4Td8yjdfcWPYoFVy",
+    "verification": "https://www.tiktok.com/@jordanpolydash/video/7580821196216847638",
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
@@ -29,6 +29,12 @@
         {
             "user": "Bebr1ch",
             "link": "https://drive.google.com/drive/folders/1zNYjU4Wtzt4QWSBBSgTzmUOsZLsGrFSI",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Remklix",
+            "link": "https://www.youtube.com/watch?v=n2QnK9iz0AQ",
             "hz": 360,
             "percent": 100
         }

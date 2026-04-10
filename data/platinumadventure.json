@@ -4,7 +4,7 @@
     "author": "Jerry4",
     "creators": [],
     "verifier": "JordanPD",
-    "verification": "https://www.youtube.com/watch?v=zDqVGq6BpLY",
+    "verification": "https://www.tiktok.com/@jordanpolydash/video/7580783661864193302",
     "percentToQualify": "100",
     "password": "123456",
     "records": [
@@ -45,7 +45,18 @@
             "link": "https://www.tiktok.com/@chessislife663/video/7596987580466351381?_r=1&_t=ZS-93CICUpDTAj",
             "hz": 360,
             "percent": 100
+        },
+        {
+            "user": "Remklix",
+            "link": "https://www.youtube.com/watch?v=KE2ngSHhHhE",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "happiguy47",
+            "link": "https://www.youtube.com/watch?v=GOYeRML0p2w",
+            "hz": 360,
+            "percent": 100
         }
-
     ]
 }

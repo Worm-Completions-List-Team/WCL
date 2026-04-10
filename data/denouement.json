@@ -8,6 +8,12 @@
     "percentToQualify": 6,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Remklix",
+            "link": "https://youtu.be/k4ABEwCb530",
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
