@@ -8,5 +8,12 @@
     "percentToQualify": 48,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Sheiden",
+            "link": "https://www.youtube.com/watch?v=XAAweBSJTd4",
+            "percent": 100,
+            "hz": 90
+        }
+
     ]
 }
