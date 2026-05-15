@@ -8,6 +8,11 @@
     "percentToQualify": 48,
     "password": "Free to Copy",
     "records": [
-
+        {
+            "user": "Bukaj5",
+            "link": "https://www.youtube.com/watch?v=nI3zN7otyh8",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
