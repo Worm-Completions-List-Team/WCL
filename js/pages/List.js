@@ -109,7 +109,7 @@ export default {
                         All coins MUST be collected for a record to be qualified.
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass and CBF are allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass and CBF are allowed)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
