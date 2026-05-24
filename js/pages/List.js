@@ -100,11 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Auto Levels will (obviously) not be accepted.
+                    <p>
                         Completions also are allowed on unrated levels, as long as they are 60> seconds long.
                     </p>
                     <p>
                         The completion has to be completed with the latest Worm mod version by AntiprimeGD on Geode.
-                    </p>
+
                     <p>
                         All coins MUST be collected for a record to be qualified.
                     </p>
