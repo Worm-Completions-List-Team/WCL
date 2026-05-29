@@ -8,6 +8,12 @@
     "percentToQualify": 50,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Nerbo",
+            "link": "https://www.youtube.com/watch?v=r3LbB1SC2EM",
+            "hz": 240,
+            "percent": 100
+        }
 
     ]
 }
